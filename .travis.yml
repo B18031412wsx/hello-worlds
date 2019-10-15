@@ -7,4 +7,4 @@ install:
  openssl-dev
  script:
   -gcc hello.c -o hello -lcurl
-      -./hello
+      -./hello 
